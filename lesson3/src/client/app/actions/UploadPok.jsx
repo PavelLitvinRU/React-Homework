@@ -38,7 +38,6 @@ export default class UploadPok extends Component {
         } else {
             const url = '../../client/img/sprites/'
             return (
-                <Grid>
                     <Row>
                         {result.map((res, count) => (
                         <Col xs={6} md={4}>
@@ -48,7 +47,6 @@ export default class UploadPok extends Component {
                         </Col>
                         ))}
                     </Row>
-                </Grid>
             )
         }
     }

@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abce2171-2a8e-4a33-b718-9e00dd3e4d88" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/app/components/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/99.png" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/public/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="header.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/components/header.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/components/footer.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UploadPok.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="4" column="38" selection-start-line="2" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/client/app/components/main.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/client/app/components/header.jsx" />
+        <option value="$PROJECT_DIR$/src/client/app/components/footer.jsx" />
+        <option value="$PROJECT_DIR$/src/client/app/index.jsx" />
+        <option value="$PROJECT_DIR$/src/client/app/components/main.jsx" />
+        <option value="$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lesson3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="162" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="163" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="162" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="C:\Users\Dell\Documents\GitHub\React-Homework\lesson3\node_modules\prettier" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abce2171-2a8e-4a33-b718-9e00dd3e4d88" name="Default" comment="" />
+      <created>1522704532493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522704532493</updated>
+      <workItem from="1522704533871" duration="2280000" />
+      <workItem from="1522946380125" duration="11065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13345000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.33227345" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926794" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49853587" visible="true" weight="0.33227345" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_test.zip/test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_test.zip/test/package.json" />
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/components/header.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/components/footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="38" selection-start-line="2" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/components/main.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
