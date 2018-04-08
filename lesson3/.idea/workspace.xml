@@ -1,163 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="abce2171-2a8e-4a33-b718-9e00dd3e4d88" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/app/components/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/147.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/148.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/34.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/35.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/37.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/38.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/41.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/42.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/43.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/44.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/45.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/46.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/47.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/50.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/51.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/52.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/54.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/56.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/57.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/59.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/62.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/63.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/64.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/65.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/66.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/67.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/68.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/69.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/71.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/72.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/73.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/74.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/75.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/77.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/78.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/79.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/81.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/82.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/83.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/84.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/85.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/86.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/87.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/88.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/89.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/90.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/91.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/92.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/93.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/94.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/95.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/97.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/98.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/img/sprites/99.png" afterDir="false" />
-    </list>
+    <list default="true" id="abce2171-2a8e-4a33-b718-9e00dd3e4d88" name="Default" comment="Добавил папку с карти&#10;нками, Папку с умными  компонентами (назвал actions, потому что забыл как правильно :D. В&#10;папке action компонент UploadPok, который осуществляет загрузку покемонов и из рендеринг с&#10; использованием метода map, там же и картинки подтягиваются. C Pull Request видимо опять п&#10;роблема будет, так как я так и не понял как добавить ветку с отдельной папкой. Он у меня с&#10;оздает в той же папке и удаляет всё содержимое, кроме того, что в файле gitignor." />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -199,8 +43,8 @@
       <file leaf-file-name="UploadPok.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+            <state relative-caret-position="306">
+              <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -310,7 +154,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="163" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="162" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/spectr/knlp_SPA" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="C:\Users\Dell\Documents\GitHub\React-Homework\lesson3\node_modules\prettier" />
@@ -341,12 +185,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522704532493</updated>
       <workItem from="1522704533871" duration="2280000" />
-      <workItem from="1522946380125" duration="11065000" />
+      <workItem from="1522946380125" duration="12509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13345000" />
+    <option name="totallyTimeSpent" value="14789000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -355,12 +199,13 @@
       <window_info anchor="bottom" id="TypeScript" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" sideWeight="0.49926794" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.5014641" side_tool="true" visible="true" weight="0.33227345" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49926794" weight="0.3290938" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49853587" visible="true" weight="0.33227345" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4978038" weight="0.33227345" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -403,6 +248,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавил папку с карти&#10;нками, Папку с умными  компонентами (назвал actions, потому что забыл как правильно :D. В&#10;папке action компонент UploadPok, который осуществляет загрузку покемонов и из рендеринг с&#10; использованием метода map, там же и картинки подтягиваются. C Pull Request видимо опять п&#10;роблема будет, так как я так и не понял как добавить ветку с отдельной папкой. Он у меня с&#10;оздает в той же папке и удаляет всё содержимое, кроме того, что в файле gitignor." />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил папку с карти&#10;нками, Папку с умными  компонентами (назвал actions, потому что забыл как правильно :D. В&#10;папке action компонент UploadPok, который осуществляет загрузку покемонов и из рендеринг с&#10; использованием метода map, там же и картинки подтягиваются. C Pull Request видимо опять п&#10;роблема будет, так как я так и не понял как добавить ветку с отдельной папкой. Он у меня с&#10;оздает в той же папке и удаляет всё содержимое, кроме того, что в файле gitignor." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/package.json">
@@ -469,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/client/app/actions/UploadPok.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        <state relative-caret-position="306">
+          <caret line="49" column="13" lean-forward="true" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>

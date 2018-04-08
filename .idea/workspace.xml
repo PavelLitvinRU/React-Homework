@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0d6b044-7531-422c-98e4-021d743fec0a" name="Default" comment="" />
+    <list default="true" id="f0d6b044-7531-422c-98e4-021d743fec0a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/lesson3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson-3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson-5" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -96,11 +98,12 @@
       <workItem from="1522344441239" duration="10804000" />
       <workItem from="1522701317071" duration="1666000" />
       <workItem from="1522703007757" duration="40000" />
+      <workItem from="1523203959864" duration="92000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="965000" />
+    <option name="totallyTimeSpent" value="1057000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
